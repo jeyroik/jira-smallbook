@@ -8,6 +8,7 @@
 Коротко об основных возможностях настройки процессов в Jira.
 
 - [Проект](https://github.com/jeyroik/jira-smallbook/wiki)
+- [Доски](https://github.com/jeyroik/jira-smallbook/wiki/Boards)
 - [Workflow](https://github.com/jeyroik/jira-smallbook/wiki/Workflow)
 - [Экраны](https://github.com/jeyroik/jira-smallbook/wiki/Screens)
 - [Типы задач](https://github.com/jeyroik/jira-smallbook/wiki/IssueTypes)
