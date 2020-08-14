@@ -13,8 +13,7 @@
 - [Экраны](https://github.com/jeyroik/jira-smallbook/wiki/Screens)
 - [Типы задач](https://github.com/jeyroik/jira-smallbook/wiki/IssueTypes)
 - [Поля](https://github.com/jeyroik/jira-smallbook/wiki/Fields)
-- [Права доступа](https://github.com/jeyroik/jira-smallbook/wiki/Access)
-- [Плагины](https://github.com/jeyroik/jira-smallbook/wiki/Plugins)
+- [Пользователи и группы](https://github.com/jeyroik/jira-smallbook/wiki/Users)
 
 ### Интеграция
 
