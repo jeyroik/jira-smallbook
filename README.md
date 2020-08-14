@@ -17,7 +17,7 @@
 
 ### Интеграция
 
-- [API](https://github.com/jeyroik/jira-smallbook/wiki/API "Краткий справочник по API")
+- [REST API](https://github.com/jeyroik/jira-smallbook/wiki/REST-API "Краткий справочник по API")
 - [Webhooks](https://github.com/jeyroik/jira-smallbook/wiki/Webhooks "Вебхуки")
 
 ### FAQ
